@@ -48,7 +48,9 @@ A potential advantage of Plasma Rain lies in the interaction between plasma disc
 
 - **Field distortion**: Conductive droplets modify the microwave field, potentially leading to uneven energy deposition or self‑shielding within the mist.
 - **Droplet survival**: In intense heat and strong airflow, mist droplets may evaporate before they can interact with the microwave pulse.
-- **Reactive additives**: Dissolving salts other than sodium chloride (e.g., potassium carbonate) or adding fire retardants may enhance plasma formation while reducing ecological impacts.
+- - **Reactive additives**: Dissolving salts other than sodium chloride (e.g., potassium carbonate) or adding fire retardants may enhance plasma formation while reducing ecological impacts.
+- **Droplet mass and updraft resistance**: To increase droplet inertia and resist convective updrafts, heavier conductive particles (e.g., aluminum flakes or dust, magnetite Fe3O4, silica-coated iron, or carbon-based particles) can be co-dispersed with the seawater mist. These additives add mass and thermal resilience to droplets, improve microwave coupling and reduce mist entrainment by strong updrafts. A composite of aluminum and magnetite could function as an ablative abrasive (similar to blasting sand) that helps the mist penetrate high-velocity plumes. However, such additives bring flammability risks (for metals), potential abrasion of dispersal equipment, environmental deposition and regulatory concerns that must be carefully assessed.
+  
 
 Understanding these processes requires computational modelling and controlled experiments.
 
